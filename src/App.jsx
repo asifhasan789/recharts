@@ -14,7 +14,7 @@ function App() {
       <h1 className='font-bold text-2xl'>Develop 3 charts using re charts library in react js.</h1>
       <h1 className="font-semibold text-xl">
         These Charts displays the data of number of domestic and
-        international passengers travelled in millions for each respective year.
+        international passengers travelled in millions for each respective year. (INDIA)
       </h1>
       <LineComp />
       <BarComp />
