@@ -28,20 +28,6 @@ Ensure you have Node.js and npm (Node Package Manager) or yarn installed on your
 - Recharts.js - A charting library built on React components.
 - Other dependencies managed via npm or yarn.
 
-## Project Structure
-
-The key files and directories within the project are structured as follows:
-|-- /src
-|-- /components
-|-- [Chart]Component.js # Contains Recharts.js components for visualization
-|-- /data
-|-- data.js # Contains the domestic and international flights data in JSON format
-|-- App.js # Main application component
-|-- main.js # Entry point of the application
-|-- index.html # HTML file as the root of the React app
-|-- package.json # Project metadata and dependencies
-|-- README.md # Project documentation
-
 ## Usage
 
 Once the application is running locally, access the app through the provided URL (usually `http://localhost:3000`) in your web browser. You will be able to view the visualizations of the domestic and international flights data in India for various years.
